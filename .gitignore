@@ -1,0 +1,4 @@
+Library/
+Dataset/*
+!Dataset/Supplimentary
+Logs/
